@@ -1,0 +1,2 @@
+I am a B.Tech IT student skilled in Python, SQL, Pandas, and Data Analysis.
+I have experience in Flask projects and GitHub.

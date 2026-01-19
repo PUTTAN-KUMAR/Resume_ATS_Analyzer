@@ -1,0 +1,6 @@
+streamlit
+scikit-learn
+regex
+PyPDF2
+python-docx
+matplotlib
