@@ -56,7 +56,7 @@ A professional Streamlit web application that analyzes uploaded resumes (PDF/DOC
 1. Clone the repo:
 ```bash
 git clone https:https://github.com/PUTTAN-KUMAR/Resume_ATS_Analyzer
-cd Resume_ATS_Analyzer
+
 
 
 ## Create virtual environment
@@ -76,8 +76,8 @@ streamlit run app.py
 #Puttan kumar
 B.Tech IT | Python Developer | Resume & ATS Automation Enthusiast
 
-🧑Interview Questions from this Project
-1️⃣ Project Overview & Motivation
+## Interview Questions from this Project
+1️ Project Overview & Motivation
 
 ##Q1: Can you explain your project?
 
@@ -87,7 +87,7 @@ B.Tech IT | Python Developer | Resume & ATS Automation Enthusiast
 
 “Many resumes are filtered out automatically by ATS in companies. This tool helps candidates understand their resume’s compatibility with ATS and improve it accordingly.”
 
-2️⃣ Technical Questions
+# Technical Questions
 
 ##Q3: Which programming language and libraries did you use?
 
@@ -109,7 +109,7 @@ Python, with libraries: Streamlit, PyPDF2, python-docx, scikit-learn CountVector
 
 “I use scikit-learn’s CountVectorizer to vectorize text and calculate similarity using dot product.”
 
-3️⃣ Streamlit & Web App
+ #Streamlit & Web App
 
 ##Q8: Why did you choose Streamlit?
 
