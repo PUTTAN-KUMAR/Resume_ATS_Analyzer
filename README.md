@@ -47,7 +47,7 @@ A professional Streamlit web application that analyzes uploaded resumes (PDF/DOC
 
 ## Live Demo
 *(Replace with your deployed Streamlit Cloud link)*  
-[Resume ATS Analyzer Live](https://puttakumar-resume-ats.streamlit.app)
+[Resume ATS Analyzer Live](http://localhost:8501)
 
 ---
 
@@ -55,7 +55,7 @@ A professional Streamlit web application that analyzes uploaded resumes (PDF/DOC
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/YourUsername/Resume_ATS_Analyzer.git
+git clone https:https://github.com/PUTTAN-KUMAR/Resume_ATS_Analyzer
 cd Resume_ATS_Analyzer
 
 
